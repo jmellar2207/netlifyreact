@@ -1,0 +1,19 @@
+{
+  "name": "paas",
+  "version": "0.0.1",
+  "description": "Aplicación para servir mediante Netlify",
+  "main": "aplicacion.js",
+  "scripts": {
+    "start": "node aplicacion.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmellar2207/netlifyreact.git"
+  },
+  "author": "jmellar2207",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmellar2207/netlifyreact/issues"
+  },
+  "homepage": "https://github.com/jmellar2207/netlifyreact#readme"
+}
